@@ -1,1 +1,3 @@
 # 2FP-3dPrinting
+
+This folder contains some misc 3D designs for various objects we have found useful over the years.
